@@ -1,7 +1,9 @@
 {
   "expo": {
-    "name": "HelloWorld",
-    "slug": "mobile",
+    "name": "TalkTrue",
+    "slug": "talktrue",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
       "android",
